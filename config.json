@@ -1,0 +1,20 @@
+{
+    "smtp_host": "smtp.example.com",
+    "smtp_port": 587,
+    "smtp_user": "your_email@example.com",
+    "smtp_password": "your_password",
+    "from_email": "your_email@example.com",
+    "to_email": "recipient@example.com",
+    "checkin_file": "checkin.txt",
+    "counter_file": "counter.txt",
+    "days_reminder": 3,
+    "days_deadman": 7,
+    "seconds_in_a_day": 86400,
+    "count_sent_mail": 1,
+    "family_members": ["family1@example.com", "family2@example.com"],
+    "files_to_attach": [],
+    "reminder_subject": "Reminder Email",
+    "reminder_message": "This is a reminder.",
+    "dead_man_activation_subject": "Dead Man's Switch Activated",
+    "dead_man_activation_message": "This is the dead man's switch activation message."
+}
