@@ -23,9 +23,5 @@ If you don't have Rust installed, follow the instructions on the [official Rust 
 Clone this repository to your local machine:
 ```bash
 git clone https://github.com/yourusername/deadman_switch.git
-cd deadman_switch
-
-3. Install Dependencies
-
-Run the following command to build the project and install its dependencies:
+cd deadman_switch  
 
